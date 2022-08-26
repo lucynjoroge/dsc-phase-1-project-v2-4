@@ -32,4 +32,4 @@ This revolves around plotting and making inferences as well as recommendations. 
 ### Visualizations
 The visualizations that will be encountered and used in the analysis are the following bar graphs:
 
-Worldwide_gross Image.png
+![alt text](Worldwide_gross Image.png)
