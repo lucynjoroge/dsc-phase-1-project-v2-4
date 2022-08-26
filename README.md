@@ -32,4 +32,4 @@ This revolves around plotting and making inferences as well as recommendations. 
 ### Visualizations
 The visualizations that will be encountered and used in the analysis are the following bar graphs:
 
-![alt text](https://github.com/lucynjoroge/dsc-phase-1-project-v2-4/blob/master/P.Analysis%20plots/Worldwide_gross%20Image.png?raw = True)
+![alt text](https://github.com/lucynjoroge/dsc-phase-1-project-v2-4/blob/master/P.Analysis%20plots/Worldwide_gross%20Image.png?)
