@@ -56,8 +56,12 @@ From the scatter plot above, it can be concluded that the production budget and 
 There are various methods that have been used to conduct this analysis, including a t- test  to determine if the averageratings are biased. Correlation has also been in use, where visualizations and scatter plots have been used as well as the numpy correlation function.
 
 There are three recommendations made as well as a definite conclusion as listed below:
+
 a) The genre generating the highest worldwide gross is the Action , Adventure and Sci-Fi genre , which should be considered if worldwide gross income is in mind.
+
 b)The genre generating the highest gross profit is the Action , Adventure and Sci-Fi genre , which should be considered if gross profit  is in mind having put into consideration the movie production budget.
+
 c) The genre that has the highest average ratings is the Action.Documentary and Drama genre
+
 #### Definite conclusion
 To produce films that are making the highest worldwide gross and gross profits, the a high production_budget should also be expected.
