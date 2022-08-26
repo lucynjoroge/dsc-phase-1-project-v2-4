@@ -33,3 +33,31 @@ This revolves around plotting and making inferences as well as recommendations. 
 The visualizations that will be encountered and used in the analysis are the following bar graphs:
 
 ![alt text](https://github.com/lucynjoroge/dsc-phase-1-project-v2-4/blob/master/P.Analysis%20plots/Worldwide_gross%20Image.png?)
+  
+  This the bar plot showing the genres generating the highest worldwide gross
+
+![alt text](https://github.com/lucynjoroge/dsc-phase-1-project-v2-4/blob/master/P.Analysis%20plots/gross_profit_df.png) 
+   
+   This is the bar plot showing the genres generating the highest gross profit.
+
+![alt text](https://github.com/lucynjoroge/dsc-phase-1-project-v2-4/blob/master/P.Analysis%20plots/rate_df.png)
+ 
+   This is the bar plot showing the genres with the highest average ratings
+
+There are also scatter plots included which have been plotted using matplotlib to analyze the relationship between various variables in the dataframe
+The most prevalent one however , used in the analysis is that of the production budget and gross profits used to test if there is any relationship between them.
+
+![alt text](https://github.com/lucynjoroge/dsc-phase-1-project-v2-4/blob/master/P.Analysis%20plots/profit_and_budget_df.png)
+
+From the scatter plot above, it can be concluded that the production budget and gross profits are closely related.
+
+## Conclusion
+
+There are various methods that have been used to conduct this analysis, including a t- test  to determine if the averageratings are biased. Correlation has also been in use, where visualizations and scatter plots have been used as well as the numpy correlation function.
+
+There are three recommendations made as well as a definite conclusion as listed below:
+a) The genre generating the highest worldwide gross is the Action , Adventure and Sci-Fi genre , which should be considered if worldwide gross income is in mind.
+b)The genre generating the highest gross profit is the Action , Adventure and Sci-Fi genre , which should be considered if gross profit  is in mind having put into consideration the movie production budget.
+c) The genre that has the highest average ratings is the Action.Documentary and Drama genre
+#### Definite conclusion
+To produce films that are making the highest worldwide gross and gross profits, the a high production_budget should also be expected.
